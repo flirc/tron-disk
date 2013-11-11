@@ -1,0 +1,13 @@
+*.lst
+*.lss
+*.hex
+*.map
+*.sym
+*.eep
+*.elf
+*.d
+*.o
+*.tmp
+*.swp
+*/buildresults/*
+.DS_STORE

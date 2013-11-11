@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = false
+[remote "origin"]
+	url = git@github.com:flirc/tron.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[user]
+	email = github@flirc.tv
+	name = Jason Kotzin

@@ -1,0 +1,32 @@
+/** \file
+ *
+ *  This file contains special DoxyGen information for the generation of the main page and other special
+ *  documentation pages. It is not a project source file.
+ */
+
+ /** \page Page_FutureChanges Future Changes
+  *
+  *  Below is a list of future changes which are proposed for the LUFA library, but not yet started/complete.
+  *  This gives an unordered list of future changes which will be available in future releases of the library.
+  *  If you have an item to add to this list, please contact the library author via email, the LUFA mailing list,
+  *  or post your suggestion as an enhancement request to the project bug tracker.
+  *
+  *  <b>Targeted for This Release (SVN Development Only):</b>
+  *  - N/A
+  *
+  *  <b>Targeted for Future Releases:</b>
+  *  - Add hub support to match Atmel's stack
+  *  - Add standardized descriptor names to device and host class driver structures
+  *  - Remake AVRStudio project files
+  *  - Add detailed overviews of how each demo works
+  *  - Master LUFA include file rather than per-module includes
+  *  - Change makefiles to allow for absolute LUFA location to be used
+  *  - Abstract out the physical media from the Mass Storage device demos
+  *  - Make new demos
+  *      -# Multiple-report HID device
+  *      -# Dual Role Mouse Host/Keyboard Device
+  *      -# Mouse/CDC Dual ClassDevice
+  *  - Port LUFA to other architectures
+  *      -# AVR32 UC3B series microcontrollers
+  *      -# Atmel ARM7 series microcontrollers
+  */
